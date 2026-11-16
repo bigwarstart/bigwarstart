@@ -1,4 +1,4 @@
-![Fatih Koçan – Healthcare IT × Web3](banner.png)
+![Fatih Koçan – Healthcare IT × Web3](Banner.png)
 
 # Hi, I'm Fatih Koçan 👋
 
