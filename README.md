@@ -28,4 +28,4 @@ Most Web3 teams are fast. Few have operated systems where failure isn't an optio
 - Projects bridging blockchain and healthcare
 
 ### 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Koçan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINKINIZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatih_Koçan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-ko%C3%A7an-3bbb49349/)
